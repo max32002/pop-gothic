@@ -1,6 +1,6 @@
 # 大波浪圓體 Pop Gothic
 
-![大波浪圓體CJK TC預覽](https://github.com/max32002/pop-gothic/raw/main/preview/pop-cjktc-banner.png)
+![大波浪圓體CJK TC預覽](https://github.com/max32002/pop-gothic/raw/master/preview/pop-cjktc-banner.png)
 
 大波浪圓體是[はちまるポップ](https://github.com/noriokanisawa/HachiMaruPop)字體的補字計畫。與原作者的主要差異是調整部件寫法、新增中文字、增加一些符號。可以免費商用，歡迎大家自由應用、自由優化、自由改作！
 
