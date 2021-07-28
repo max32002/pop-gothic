@@ -13,10 +13,7 @@ Pop Gothic Font derived from HachiMaruPop Font.
 
 ### 使用電腦做筆跡學習
 參考看看這篇文章：
-
-[AI造字經驗分享](https://max-everyday.com/2021/07/zi2zi-ai-font/)
-
-[https://max-everyday.com/2021/07/zi2zi-ai-font/](https://max-everyday.com/2021/07/zi2zi-ai-font/)
+* AI造字經驗分享：[https://max-everyday.com/2021/07/zi2zi-ai-font/](https://max-everyday.com/2021/07/zi2zi-ai-font/)
 
 ### 字體後面的 JP,TC是什意思？
 * TC是 Traditional Chinese 繁体中文，代表港台習慣的字形。
@@ -25,14 +22,8 @@ Pop Gothic Font derived from HachiMaruPop Font.
 
 ### 相關影片
 
-大波浪圓體補字：口部
-
-[https://youtu.be/eMLZxgJWzrk](https://youtu.be/eMLZxgJWzrk)
-
-
-以描摹方式建立或更新字型
-
-[https://youtu.be/xSAN43F3wwI](https://youtu.be/xSAN43F3wwI)
+* 大波浪圓體補字：口部 [https://youtu.be/eMLZxgJWzrk](https://youtu.be/eMLZxgJWzrk)
+* 以描摹方式建立或更新字型 [https://youtu.be/xSAN43F3wwI](https://youtu.be/xSAN43F3wwI)
 
 
 ## 下載字型
