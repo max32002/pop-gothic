@@ -82,11 +82,11 @@ WebFont可以服用下面的css:
 ```
 @font-face {
   font-family: pop-gothic-cjktc;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/pop-gothic@1.000/webfont/CJK%20TC/PopGothicCjkTc-Regular.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/pop-gothic@1.010/webfont/CJK%20TC/PopGothicCjkTc-Regular.woff2) format("woff2");
 }
 @font-face {
   font-family: pop-gothic-cjkjp;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/pop-gothic@1.040/webfont/CJK%20JP/PopGothicCjkJp-Regular.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/pop-gothic@1.000/webfont/CJK%20JP/PopGothicCjkJp-Regular.woff2) format("woff2");
 }
 ```
 附註：Regular換成其他的值，可以調整粗細。
