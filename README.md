@@ -4,6 +4,8 @@
 
 大波浪圓體是[はちまるポップ](https://github.com/noriokanisawa/HachiMaruPop)字體的補字計畫。與原作者的主要差異是調整部件寫法、新增中文字、增加為5個字重、增加一些符號。可以免費商用，歡迎大家自由應用、自由優化、自由改作！
 
+華康少女字體的風格真的很美，這個專案的目標是取代華康少女體，免費可商業用途的字體，希望大家會喜歡。
+
 Pop Gothic Font derived from HachiMaruPop Font.
 
 ## 字體特色
