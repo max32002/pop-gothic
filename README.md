@@ -135,7 +135,7 @@ WebFont可以服用下面的css:
 * [zi2zi-pytorch](https://github.com/xuan-li/zi2zi-pytorch) by [xuan-li](https://github.com/xuan-li)
 * [zi2zi-pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch) by [EuphoriaYan](https://github.com/EuphoriaYan)
 * [Font2Font](https://github.com/jasonlo0509/Font2Font) by [jasonlo0509](https://github.com/jasonlo0509)
-* 感謝網友 戴勝賢 提供的補字。
+* 感謝網友 Hoopoe 提供的補字。
 
 ## 使用電腦做筆跡學習
 參考看看這篇文章：
