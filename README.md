@@ -83,6 +83,10 @@ CJK JP 與 CJK TC 有差異的字：(538字)
 * TC是 Traditional Chinese 繁体中文，代表港台習慣的字形。
 * JP是 Japanese 日文，代表日本習慣字形。
 
+### 特色6：補齊中文大寫金額
+
+零壹貳參肆伍陸柒捌玖拾佰仟萬億兆圓角分整。
+
 ## 更新日誌
 [點擊此處](https://github.com/max32002/pop-gothic/blob/master/change_log.md) 查看更新記錄。
 
