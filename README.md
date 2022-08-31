@@ -89,6 +89,8 @@ CJK JP 與 CJK TC 有差異的字：(578字)
 
 ### 特色7：補齊中文注音符號
 
+![注音符號預覽](https://github.com/max32002/pop-gothic/raw/master/preview/bopomofo.png)
+
 * ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏㄐㄑㄒㄓㄔㄕㄖㄗㄘㄙㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥㄦㄧㄨㄩ
 
 ## 更新日誌
@@ -151,6 +153,7 @@ WebFont可以服用下面的css:
 
 ## 相關影片
 
+* 大波浪圓體補字：注音符號 https://youtu.be/IkbokhlvPik
 * 大波浪圓體補字：2022-06-03 https://youtu.be/I_6l5KC_gu0
 * 大波浪圓體補字：2022-06-01 https://youtu.be/ors3B1t9oBk
 * 大波浪圓體補字：你佣偸粼 https://youtu.be/uhztw7b38aA
